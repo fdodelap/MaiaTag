@@ -1,9 +1,15 @@
-BEGIN:VCARD
-VERSION:3.0
-FN:Jenkins & Associates, CPA, P.C.
-ORG:Jenkins & Associates, CPA, P.C.
-TEL;TYPE=work,voice:(281) 480-9000
-ADR;TYPE=work:;;16865 Diana Ln #100;Houston;TX;77058;USA
-URL:https://jenkinscpas.com/
-NOTE:Trusted CPAs providing bookkeeping, accounting, and tax services since 2012.
-END:VCARD
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Add Jenkins & Associates</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body style="text-align:center;margin-top:50px;font-family:sans-serif;">
+  <h2>Jenkins & Associates, CPA, P.C.</h2>
+  <p>16865 Diana Ln #100, Houston, TX 77058</p>
+  <a href="contacts/JenkinsAndAssociates.vcf">
+    <button style="padding:12px 20px;font-size:18px;">Add to Contacts</button>
+  </a>
+</body>
+</html>
